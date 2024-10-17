@@ -1,4 +1,4 @@
-![logo](# bhavyabhanderi07
+
 ![logo](https://github.com/bhavyabhanderi/bhavyabhanderi07/blob/main/Your%20paBragraph%20text.png)
 
 <h1 align="center">Hi 👋, I'm BHAVYA BHANDERI</h1>
@@ -21,6 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyabhanderi&show_icons=true&locale=en" alt="bhavyabhanderi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyabhanderi&" alt="bhavyabhanderi" /></p>)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyabhanderi&" alt="bhavyabhanderi" /></p>
