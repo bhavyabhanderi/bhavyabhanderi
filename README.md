@@ -1,5 +1,5 @@
 
-![logo](https://github.com/bhavyabhanderi/bhavyabhanderi07/blob/main/Your%20paBragraph%20text.png)
+![logo](https://github.com/bhavyabhanderi/bhavyabhanderi/blob/main/bhavya.png)
 
 <h1 align="center">Hi 👋, I'm BHAVYA BHANDERI</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
